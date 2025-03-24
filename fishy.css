@@ -12,7 +12,8 @@ margin-left:100px
 * {
 user-select:none;
 color:#c1c1c1;
-text-shadow:4px 4px black,2px 2px #000
+text-shadow:4px 4px black,2px 2px #000;
+cursor:help
 }
 
 a {
